@@ -1,4 +1,4 @@
-class Ruby193 < FPM::Cookery::Recipe
+class Ruby21 < FPM::Cookery::Recipe
   description 'An interpreter of object-oriented scripting language Ruby'
   name        'ruby2.1'
   version     '1:2.1.2'
